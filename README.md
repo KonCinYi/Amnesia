@@ -1,4 +1,4 @@
-# 🧹 Windows Shared PC Cleaner
+# 🧹 Отчиститель общественных ПК Windows
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)
 ![Language](https://img.shields.io/badge/language-Batch%20%7C%20PowerShell-5391FE?style=flat-square&logo=powershell)
